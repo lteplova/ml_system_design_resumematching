@@ -10,8 +10,8 @@
 Документ описывает проектирование ML-системы для решения задачи **semantic matching и поиска кандидатов** в рекрутинге.  
 **Разработчик**: Теплова Л.Г.  
 **Контакты**:  
-- Telegram: [@username](https://t.me/lteplova)
-- Email: lteplova@gmail.com
+Telegram: [@lteplova](https://t.me/lteplova)  
+Email: lteplova@gmail.com
 
 ---
 
