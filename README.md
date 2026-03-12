@@ -47,7 +47,7 @@
 
 Полное описание системы находится в документе:
 
-**[ml_sys_doc.md](ml_sys_doc.md)**
+**[ml_system_design_doc.md](ml_system_design_doc.md)**
 
 Документ включает:
 
