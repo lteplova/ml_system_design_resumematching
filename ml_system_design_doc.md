@@ -307,9 +307,7 @@ Cross-encoder используется для:
 Основной сценарий взаимодействия пользователя с системой представлен на рисунке.
 
 
-<p align="center">
-  <img src="user_path.png"/>
-</p>
+![user_path](diagrams/user_path.png)
 
 Рекрутер может:
 
@@ -364,13 +362,11 @@ Cross-encoder используется для:
 
 Процесс состоит из этапов, изображенных на блок-схеме.
 
-<p align="center">
-  <img src="ml_pipe1.png"/>
-</p>
+![ml_pipe1](diagrams/ml_pipe1.png)
 
-<p align="center">
-  <img src="ml_pipe2.png"/>
-</p>
+
+![ml_pipe2](diagrams/ml_pipe2.png)
+
 
 На рисунке выше представлена двухэтапная архитектура поиска кандидатов.
 На первом этапе bi-encoder используется для построения векторных представлений резюме и вакансий и быстрого semantic retrieval в Qdrant.
@@ -692,10 +688,8 @@ MVP реализован в виде Telegram-бота.
 ### 4.1 Архитектура системы
 
 Архитектура сервиса ResumeMatching построена по асинхронной схеме Producer - Queue - Consumer, более подробно на рисунке ниже
-<p align="center">
-  <img src="arch.png"/>
-</p>
 
+![arch](diagrams/arch.png)
 
 ### 4.2 Компоненты системы
 
