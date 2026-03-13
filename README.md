@@ -1,9 +1,6 @@
 # ML System Design — ResumeMatching
 
 ![ML System Design](https://img.shields.io/badge/ML-System%20Design-blue)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-Qdrant-orange)
-![License](https://img.shields.io/badge/License-Apache%202.0-green)
 
 Этот репозиторий содержит **ML System Design документ** для сервиса **ResumeMatching** — системы автоматического сопоставления резюме и вакансий.
 
